@@ -1,4 +1,2 @@
 WebviewVideo
-============
-
-sample app for displaying Html5Video using Webview in Android
+网页中播放视频demo
